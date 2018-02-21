@@ -1,8 +1,7 @@
 package com.willemhustinx.coins;
 
 
-import com.willemhustinx.coins.main.Block;
-import com.willemhustinx.coins.main.Chain;
+import com.willemhustinx.coins.blockchain.Chain;
 
 public class Main {
 
